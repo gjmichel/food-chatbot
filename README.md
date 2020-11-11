@@ -11,7 +11,8 @@ Powered by Amazon Lex and specifically trained to interact with the user about r
   * type of cuisine (Chinese, French, Italian, Korean, Brazilian...)
   * price (on a scale from 1 to 4)
   * user location (Times Square, NYSE, 110th Street & Broadway...)
-Concerning the geographical aspect, the user enters the location around which he wants to have lunch or dinner by indicating a neighborhood (ex: Tribeca, Hell's Kitchen...), a recognizable place (ex: Union Square, Flatiron Building...) or a crossroads (ex: 110th Street & Broadway...), which is converted into geographical coordinates within the lambda function, to be taken into account by the Geoquery feature of Elasticsearch. 
+  
+Regarding the geographical aspect, the user enters the location around which he wants to have lunch or dinner by indicating a neighborhood (ex: Tribeca, Hell's Kitchen...), a recognizable place (ex: Union Square, Flatiron Building...) or a crossroads (ex: 110th Street & Broadway...), which is converted into geographical coordinates within the lambda function, to be taken into account by the Geoquery feature of Elasticsearch. 
 
 Once the necessary information has been submitted, the user is asked for an email address to which he or she will receive the characteristics of two restaurants that match the provided criteria. 
 

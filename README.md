@@ -2,7 +2,7 @@
 
 This repo contains some of the code used to build a chatbot accessible [here](http://food-chatbot.s3-website-us-east-1.amazonaws.com/).
 
-Powered by Amazon Lex and ElasticSearch, it recommends restaurants in manhattan based on several criteria, including :
+Powered by Amazon Lex and ElasticSearch, it recommends restaurants in Manhattan based on several criteria speciied by the user on the frontend, including :
   * type of cuisine (Chinese, French, Italian, Korean, Brazilian...)
   * price (on a scale from 1 to 4)
   * user location (Times Square, NYSE, 110th Street & Broadway...)

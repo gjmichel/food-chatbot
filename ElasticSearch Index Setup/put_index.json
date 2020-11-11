@@ -1,0 +1,25 @@
+{
+    "mappings":{
+
+                "properties" :{
+                    "cuisinetype1": {"type": "text"},
+                    "cuisinetype2": {"type": "text"},
+                    "cuisinetype3": {"type": "text"},
+                    "pricelevel" :{"type": "float"},
+                    "rating":{"type": "float"}, 
+                    "location": {"type": "geo_point"},
+                    "id": {"type": "text"},
+                    "name": {"type": "text"}
+
+
+            }
+
+        }
+        
+    }
+
+
+Comments :
+PUT request, AWS authorization
+URL:
+https://search-production2-st4dkx7iypo5p7tveqkorqj6i4.us-east-1.es.amazonaws.com/restaurantsearch

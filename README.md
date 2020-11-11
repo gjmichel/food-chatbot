@@ -9,5 +9,6 @@ Chatbot that recommends restaurants in manhattan
 <img
 src=“Chatbot_structure.pdf”
 raw=true
+alt=“Subject Pronouns”
 style=“margin-right: 10px;”
 />

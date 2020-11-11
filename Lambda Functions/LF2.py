@@ -1,4 +1,6 @@
 
+# this function requires custom layers containing the elasticsearch, requests_aws4auth and geopy libraries
+
 import json
 import boto3
 from elasticsearch import Elasticsearch, RequestsHttpConnection

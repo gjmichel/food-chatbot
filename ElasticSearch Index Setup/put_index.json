@@ -19,7 +19,6 @@
     }
 
 
-Comments :
-PUT request, AWS authorization
-URL:
-https://search-production2-st4dkx7iypo5p7tveqkorqj6i4.us-east-1.es.amazonaws.com/restaurantsearch
+Comments/Tips to use Postman :
+PUT request, AWS authorization (enter your credentials)
+URL: https://your_es_cluster_endpoint
